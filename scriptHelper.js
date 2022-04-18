@@ -9,8 +9,8 @@
 //                     <li>Name: </li>
 //                     <li>Diameter: </li>
 //                     <li>Star: ${star}</li>
-//                     <li>Distance from Earth: </li>
-//                     <li>Number of Moons: </li>
+//                     <li>Distance from Earth: ${{json[i].name}</li>
+//                     <li>Number of Moons: ${{json[i].name}</li>
 //                 </ol>
 //                 <img src="">
 //    */
